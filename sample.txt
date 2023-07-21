@@ -1,1 +1,2 @@
 this is my 1st git
+hi how are you 
